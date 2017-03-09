@@ -1,0 +1,4 @@
+name      id             score
+John      h70241456      93.5
+Dan       h702423789     90 
+Ryan      h702849369     90 

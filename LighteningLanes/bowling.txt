@@ -1,0 +1,9 @@
+
+   Weekly Bowling Report for Adam
+
+Name          Last week's avg    Today's avg
+
+122              121.0             125.3
+Ben              119.0             131.0
+Carol            120.0             124.7
+David            131.0             126.7
